@@ -1,0 +1,12 @@
+{
+  "name": "galagaweb",
+  "version": "1.0.0",
+  "description": "Galaga Web game",
+  "main": "space_shooter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "space_shooter.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
